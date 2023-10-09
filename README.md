@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am interested in any type of technology and want to know more about this virtual world of computers and technologies. I'm improving my skills and knowledge about things so that I can provide an easier lifestyle to people in this society. I don't believe in any type of limits in knowledge or skills, the more you have those the more you get to know about and the more you can apply. I'm Interested to connect with like-minded people who have a similar mindset to mine.
+I am Final year CSE student and research scholar, I have worked on the tech stacks that are mentioned here and also contributed to research journals that are mention here. I am interested in both Development Field and Machine Learning Field
+
+
+
+
+## Tech Domain
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2320232a.svg?style=for-the-badge&logo=machinelearning&logoColor=%23FF6F61)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2320232a.svg?style=for-the-badge&logo=deeplearning&logoColor=%230000FF)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-%2320232a.svg?style=for-the-badge&logo=backend-development&logoColor=%23F37726)
+![Data Science](https://img.shields.io/badge/Data%20Science-%2320232a.svg?style=for-the-badge&logo=data-science&logoColor=%235A67D8)
+
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
@@ -36,3 +46,11 @@ I am interested in any type of technology and want to know more about this virtu
 ![Pandas](https://img.shields.io/badge/Pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2301307C)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2320232a.svg?style=for-the-badge&logo=opencv&logoColor=%23FFD43B)
+
+## Research Contributions
+![Taylor and Francis](https://img.shields.io/badge/Taylor%20and%20Francis-%2320232a.svg?style=for-the-badge&logo=taylor-and-francis&logoColor=%23666666)
+![Springer](https://img.shields.io/badge/Springer-%2320232a.svg?style=for-the-badge&logo=springer&logoColor=%230A59A5)
+![Crossref](https://img.shields.io/badge/Crossref-%2320232a.svg?style=for-the-badge&logo=crossref&logoColor=%2300AE8C)
+![ORCID](https://img.shields.io/badge/ORCID-%2320232a.svg?style=for-the-badge&logo=orcid&logoColor=%23A6CE39)
+![ResearchGate](https://img.shields.io/badge/ResearchGate-%2320232a.svg?style=for-the-badge&logo=researchgate&logoColor=%234BB4E6)
+
