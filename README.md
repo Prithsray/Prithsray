@@ -54,3 +54,4 @@ I am Final year CSE student and research scholar, I have worked on the tech stac
 ![ORCID](https://img.shields.io/badge/ORCID-%2320232a.svg?style=for-the-badge&logo=orcid&logoColor=%23A6CE39)
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-%2320232a.svg?style=for-the-badge&logo=researchgate&logoColor=%234BB4E6)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithsray&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
