@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Final year CSE student and research scholar, I have worked on the tech stacks that are mentioned here and also contributed to research journals that are mention here. I am interested in both Development Field and Machine Learning Field
+I am Final year CSE student and research scholar, I have worked on the tech stacks that are mentioned here <br> and also contributed to research journals that are mention here. I am interested in both Development Field <br>and Machine Learning Field
 
 
 
