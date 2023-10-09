@@ -35,9 +35,9 @@ I am Final year CSE student and research scholar, I have worked on the tech stac
 ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%23FFDD00)
 ![PHP](https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)
 <br>
-![Django](https://img.shields.io/badge/Django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%23092E20)
+![Django](https://img.shields.io/badge/Django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white)
 ![jQuery Ajax](https://img.shields.io/badge/jQuery_Ajax-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
-![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2300758F)
+![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
 
