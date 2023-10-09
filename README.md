@@ -34,7 +34,6 @@ I am Final year CSE student and research scholar, I have worked on the tech stac
 ![Flask](https://img.shields.io/badge/Flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%23FFFFFF)
 ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%23FFDD00)
 ![PHP](https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)
-<br>
 ![Django](https://img.shields.io/badge/Django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white)
 ![jQuery Ajax](https://img.shields.io/badge/jQuery_Ajax-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
 ![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,8 +56,7 @@ I am Final year CSE student and research scholar, I have worked on the tech stac
 ![Crossref](https://img.shields.io/badge/Crossref-%2320232a.svg?style=for-the-badge&logo=crossref&logoColor=%2300AE8C)
 ![ORCID](https://img.shields.io/badge/ORCID-%2320232a.svg?style=for-the-badge&logo=orcid&logoColor=%23A6CE39)
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-%2320232a.svg?style=for-the-badge&logo=researchgate&logoColor=%234BB4E6)
-<br>
-<br>
+
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithsray&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
