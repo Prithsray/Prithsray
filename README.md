@@ -62,3 +62,6 @@ I am Final year CSE student and research scholar, I have worked on the tech stac
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithsray&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-------------------------------------------------------------------------------------------->
 [![](https://visitcount.itsvg.in/api?id=Prithsray&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+
+## Hacktober Fest Badges
+[![An image of @prithsray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prithsray)](https://holopin.io/@prithsray)
