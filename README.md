@@ -27,29 +27,31 @@ I am Final year CSE student and research scholar, I have worked on the tech stac
 
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
-![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS](https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%23FFFFFF)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%23FFDD00)
-![PHP](https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)
-![Django](https://img.shields.io/badge/Django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white)
-![jQuery Ajax](https://img.shields.io/badge/jQuery_Ajax-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
-![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white)
+![CloudFoundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5.svg?style=for-the-badge&logo=Cloud-Foundry&logoColor=white)
 
 
 
 ## Libraries
-![Keras](https://img.shields.io/badge/Keras-%2320232a.svg?style=for-the-badge&logo=keras&logoColor=%23D00000)
-![PyTorch](https://img.shields.io/badge/PyTorch-%2320232a.svg?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C)
-![NumPy](https://img.shields.io/badge/NumPy-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=%23EE4C2C)
-![Pandas](https://img.shields.io/badge/Pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2301307C)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-%2320232a.svg?style=for-the-badge&logo=opencv&logoColor=%23FFD43B)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## Research Contributions
 ![Taylor and Francis](https://img.shields.io/badge/Taylor%20and%20Francis-%2320232a.svg?style=for-the-badge&logo=taylor-and-francis&logoColor=%23666666)
