@@ -36,14 +36,15 @@ I am CSE student and research scholar, I have worked on the tech stacks that are
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0C9ED5.svg?style=for-the-badge&logo=Express&logoColor=yellow&color=darkblue)
+![React](https://img.shields.io/badge/React-0C9ED5.svg?style=for-the-badge&logo=React&logoColor=&color=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
 ![SAP Fiori](https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white)
 ![CloudFoundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5.svg?style=for-the-badge&logo=Cloud-Foundry&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0C9ED5.svg?style=for-the-badge&logo=Express&logoColor=yellow&color=darkblue)
-![React](https://img.shields.io/badge/React-0C9ED5.svg?style=for-the-badge&logo=React&logoColor=&color=black)
+
 
 
 
