@@ -42,8 +42,8 @@ I am CSE student and research scholar, I have worked on the tech stacks that are
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
 ![SAP Fiori](https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white)
 ![CloudFoundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5.svg?style=for-the-badge&logo=Cloud-Foundry&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0C9ED5.svg?style=for-the-badge&logo=Express&logoColor=Yellow)
-![React](https://img.shields.io/badge/React-0C9ED5.svg?style=for-the-badge&logo=React&logoColor=&color=Red)
+![Express](https://img.shields.io/badge/Express-0C9ED5.svg?style=for-the-badge&logo=Express&logoColor=yellow)
+![React](https://img.shields.io/badge/React-0C9ED5.svg?style=for-the-badge&logo=React&logoColor=&color=black)
 
 
 
