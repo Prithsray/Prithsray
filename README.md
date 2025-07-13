@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>👩‍💻 Engineer @ TCS | Machine Learning Research Scholar | Full Stack Developer </strong><br/>
-  I work across Backend, Frontend, and AI/ML technologies with a passion for building scalable solutions & publishing impactful research.
+  I work across Backend, Frontend, and Machine Learning technologies for building scalable solutions & publishing impactful research articles.
 </p>
 
 <p align="center">
