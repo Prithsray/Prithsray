@@ -11,7 +11,7 @@
 
 ## ✨ About Me
 
-I'm a passionate developer with a strong foundation in both academic research and industry-focused software development. Currently working at **TCS**, I balance hands-on engineering with active research contributions. From building ERP systems to deploying ML models, I enjoy solving complex problems with elegant and efficient code.
+I'm a developer with a strong foundation in both academic research and industry-focused software development. Currently working at **TCS**, I balance hands-on engineering with active research contributions. From building ERP systems to deploying ML models, I enjoy solving complex problems with elegant and efficient code.
 
 ---
 
