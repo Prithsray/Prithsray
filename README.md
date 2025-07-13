@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to my GitHub Profile! 👋</h1>
-
 <p align="center">
   <strong>👩‍💻 Engineer @ TCS | Machine Learning Research Scholar | Full Stack Developer </strong><br/>
   I work across Backend, Frontend, and Machine Learning technologies for building scalable solutions & publishing impactful research articles.
