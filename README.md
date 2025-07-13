@@ -45,6 +45,9 @@ I am a Engineer @ TCS and research scholar, I have worked on the tech stacks tha
 ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-1e293b.svg?style=for-the-badge&logo=SAP&logoColor=#0faaff)
 ![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-1e293b.svg?style=for-the-badge&logo=Cloud-Foundry&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-1e293b.svg?style=for-the-badge&logo=SpringBoot&logoColor=#6db33f)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b.svg?style=for-the-badge&logo=Node.js&logoColor=#3C873A)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-1e293b.svg?style=for-the-badge&logo=SAP&logoColor=#0faaff)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-1e293b.svg?style=for-the-badge&logo=SAP&logoColor=#0faaff)
 
 
 
