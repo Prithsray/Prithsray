@@ -27,24 +27,25 @@ I am a Engineer @ TCS and research scholar, I have worked on the tech stacks tha
 
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%23FFDD00)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0C9ED5.svg?style=for-the-badge&logo=Express&logoColor=yellow&color=darkblue)
-![React](https://img.shields.io/badge/React-0C9ED5.svg?style=for-the-badge&logo=React&logoColor=&color=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
-![SAP Fiori](https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white&color=blue)
-![CloudFoundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5.svg?style=for-the-badge&logo=Cloud-Foundry&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-0C9ED5.svg?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white)
+![Python](https://img.shields.io/badge/Python-1e293b.svg?style=for-the-badge&logo=Python&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a.svg?style=for-the-badge&logo=HTML5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a.svg?style=for-the-badge&logo=CSS3&logoColor=cyan)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![Flask](https://img.shields.io/badge/Flask-1e293b.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1e293b.svg?style=for-the-badge&logo=OpenJDK&logoColor=orange)
+![PHP](https://img.shields.io/badge/PHP-1e293b.svg?style=for-the-badge&logo=PHP&logoColor=violet)
+![Django](https://img.shields.io/badge/Django-1e293b.svg?style=for-the-badge&logo=Django&logoColor=green)
+![jQuery](https://img.shields.io/badge/jQuery-1e293b.svg?style=for-the-badge&logo=jQuery&logoColor=skyblue)
+![Express](https://img.shields.io/badge/Express-1e293b.svg?style=for-the-badge&logo=Express&logoColor=white)
+![React](https://img.shields.io/badge/React-1e293b.svg?style=for-the-badge&logo=React&logoColor=#61dafb)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b.svg?style=for-the-badge&logo=MySQL&logoColor=#f29111)
+![SQLite](https://img.shields.io/badge/SQLite-1e293b.svg?style=for-the-badge&logo=SQLite&logoColor=#00a2e8)
+![Netlify](https://img.shields.io/badge/Netlify-1e293b.svg?style=for-the-badge&logo=Netlify&logoColor=#00ad9f)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1e293b.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-1e293b.svg?style=for-the-badge&logo=SAP&logoColor=#0faaff)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-1e293b.svg?style=for-the-badge&logo=Cloud-Foundry&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-1e293b.svg?style=for-the-badge&logo=SpringBoot&logoColor=#6db33f)
+
 
 
 
