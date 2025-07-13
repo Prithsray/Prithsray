@@ -50,16 +50,6 @@ I am a Engineer @ TCS and research scholar, I have worked on the tech stacks tha
 ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-1e293b.svg?style=for-the-badge&logo=SAP&logoColor=#0faaff)
 
 
-
-
-## Libraries
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-
 ## Research Contributions
 ![Taylor and Francis](https://img.shields.io/badge/Taylor%20and%20Francis-%2320232a.svg?style=for-the-badge&logo=taylor-and-francis&logoColor=%23666666)
 ![Springer](https://img.shields.io/badge/Springer-%2320232a.svg?style=for-the-badge&logo=springer&logoColor=%230A59A5)
