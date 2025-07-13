@@ -5,6 +5,10 @@
   I work across Backend, Frontend, and AI/ML technologies with a passion for building scalable solutions & publishing impactful research.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+coding+world!;Open+to+collaboration.;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
 ---
 
 ## ✨ About Me
@@ -71,4 +75,8 @@ I'm a passionate developer with a strong foundation in both academic research an
 
 ---
 
-> Built with passion for development and curiosity for innovation. Let's connect and build something meaningful!
+> ✨ Built with passion for development and curiosity for innovation. Let's connect and build something meaningful!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
